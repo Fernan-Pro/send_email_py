@@ -2,8 +2,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-email = 'ferqtexwinner@gmail.com'
-password = 'bbea uiwx tthr hndg'
+email = '/* Tu correo electronico */'
+password = '/* Tu password */'
 
 recipent = input("Correo destinatario: ")
 
